@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mohammed Alhareth 👋 | مرحباً، أنا محمد آل الحارث
 
-<!--
-**mohammed-alhareth/mohammed-alhareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Student @ Najran University | Project Coordination & Administration**
 
-Here are some ideas to get you started:
+**طالب نظم معلومات في جامعة نجران | تنسيق المشاريع والأعمال الإدارية**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About
+
+- 🎓 B.Sc. Information Systems — Najran University (expected 2027)
+- 🏨 13 months of hotel front-desk experience
+- 🏆 Defensethon Hackathon — Tuwaiq Academy, with the Ministry of Defense & Ministry of Education
+- 🗂️ Member, Planning, Innovation & Follow-up Committee — College of CS & IS
+- 🎯 Seeking a co-op training opportunity in project management or administration
+
+<div dir="rtl">
+
+## 🙋‍♂️ نبذة
+
+- 🎓 بكالوريوس نظم المعلومات — جامعة نجران (التخرج المتوقع 2027)
+- 🏨 خبرة 13 شهراً في الاستقبال الفندقي
+- 🏆 هاكاثون ديفينستون — أكاديمية طويق، بالتعاون مع وزارة الدفاع ووزارة التعليم
+- 🗂️ عضو لجنة التخطيط والابتكار والمتابعة — كلية علوم الحاسب ونظم المعلومات
+- 🎯 أبحث عن فرصة تدريب تعاوني في إدارة المشاريع أو الأعمال الإدارية
+
+</div>
+
+---
+
+## 🚀 Projects | المشاريع
+
+- **[mothdrone](https://github.com/mohammed-alhareth/mothdrone)** — Hackathon project | مشروع الهاكاثون
+- **TOPONODE** — Smart attendance system (graduation project) | نظام حضور ذكي (مشروع التخرج)
+
+## 🤝 Connect | تواصل
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--alhareth-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-alhareth)
